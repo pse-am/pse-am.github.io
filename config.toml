@@ -1,0 +1,5 @@
+languageCode = "hy-AM"
+title = "ՀԱՄԱՀԱՅԿԱԿԱՆ ԷՆԴՈԿՐԻՆՈԼՈԳԻԱԿԱՆ ՄԻՈՒԹՅՈՒՆ"
+baseURL = "/"
+themesDir = "themes"
+theme = "hugo-serif-theme"
