@@ -11,18 +11,15 @@
     mobile = "images/logo/logo.png"
     desktop = "images/logo/logo.png"
     desktop_height = "36px"
-    alt = "ՀԱՄԱՀԱՅԿԱԿԱՆ ԷՆԴՈԿՐԻՆՈԼՈԳԻԱԿԱՆ ՄԻՈՒԹՅՈՒՆ"
+    alt = "ՀԷՄ"
 
   [params.homepage_meta_tags]
-    meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-    meta_og_title = "Hugo Serif Theme"
+    meta_description = "ՀԱՄԱՀԱՅԿԱԿԱՆ ԷՆԴՈԿՐԻՆՈԼՈԳԻԱԿԱՆ ՄԻՈՒԹՅՈՒՆ"
+    meta_og_title = "ՀԷՄ"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-serif.netlify.app"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
-    meta_og_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_og_image = "https://pse-am.github.io/images/logo/logo.png"
+    meta_og_description = "ՀԱՄԱՀԱՅԿԱԿԱՆ ԷՆԴՈԿՐԻՆՈԼՈԳԻԱԿԱՆ ՄԻՈՒԹՅՈՒՆ"
+
 
   [params.team]
     summary_large_truncate = 120  # How many characters to include in the summary of the team bios (large layout) before truncating
