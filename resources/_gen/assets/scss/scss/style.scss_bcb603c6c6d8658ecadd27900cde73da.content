@@ -4408,7 +4408,7 @@ ol {
         height: 120px; } }
 .title {
   color: #2f2f41;
-  font-size: 48px;
+  font-size: 30px;
   line-height: 1.2; }
   @media (min-width: 992px) {
     .title {
@@ -4515,7 +4515,7 @@ ol {
       padding-bottom: 140px; } }
   .intro h1 {
     color: #2f2f41;
-    font-size: 42px;
+    font-size: 30px;
     font-weight: bold;
     line-height: 1.2; }
     @media (min-width: 768px) {
